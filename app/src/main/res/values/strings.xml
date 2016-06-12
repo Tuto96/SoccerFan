@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Soccer Fan</string>
+    <string name="action_settings">Settings</string>
+    <string name="LeagueSelectTitle">Select a League</string>
+    <string name="TeamSelectTitle">Select a Team</string>
+    <string name="lastMatch">Last Match</string>
+    <string name="awayTeam">Away Team</string>
+    <string name="homeTeam">Home Team</string>
+</resources>
